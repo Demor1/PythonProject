@@ -1,0 +1,7 @@
+print(-2 ** 4 + 1, type(-2 ** 4 + 1))
+print(2 ** -4 + 1, type(2 ** -4 + 1))
+print(4 ** 0.5, type(4 ** 0.5))
+print(0 ** 0, type(0 ** 0))
+print(2 ** 3 * 3, type(2 ** 3 * 3))
+print(10 ** 2, type(10 ** 2))
+print(10 ** 2.0, type(10 ** 2.0))
